@@ -1,0 +1,7 @@
+static void Main(string[] args)        
+{            
+Console.WriteLine("Merhaba Dünya.");
+Console.WriteLine("www.algoritmaornekleri.com");
+Console.ReadKey();
+}
+ 
